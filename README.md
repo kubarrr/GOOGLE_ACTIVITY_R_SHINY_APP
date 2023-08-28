@@ -9,7 +9,7 @@ jsonlite
 tidyverse, dplyr
 
 ### Plots
-ggpolt2, dplyr
+ggpolt2, plotly
 
 ### App
 shiny, shinyWidgets
