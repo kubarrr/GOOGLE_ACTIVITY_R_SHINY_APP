@@ -1,6 +1,6 @@
 # GOOGLE_ACTIVITY_R_SHINY_APP
 University Visualistaion Techniques Project about Google Activity. Link [GOOGLE_ACTIVITY](https://pyzowskir.shinyapps.io/projektJAtwd/)
-Gogle search engine data were donloaded from our google accounts in JSON format.
+Google search engine data were donloaded from our google accounts in JSON format.
 
 ### Data acquisition
 jsonlite
